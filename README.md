@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=66cc66&height=240&section=header&text=JISU%20KIM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=someone who learns and challenges...%20%20and happy :-D&descAlignY=51&descAlign=62&fontColor=ffffe0)
+![header](https://capsule-render.vercel.app/api?type=egg&color=66cc66&height=200&section=header&text=JISU%20KIM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=who%20learns%20and%20challenges...%20%20and%20happy%20:-D&descAlignY=55&descAlign=65&fontColor=ffffe0)
 
 <h3 align="center">📚 Technology Stack 🌱</h3>
 <p align="center">
