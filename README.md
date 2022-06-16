@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=66cc66&height=240&section=header&text=JISU%20KIM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=someone who learns and challenges...%20%20and happy :-D&descAlignY=51&descAlign=62&fontColor=ffffe0)
 
-<!--
-**jijisusu3/jijisusu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📚 Technology Stack 🌱</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-blueviolet"/>&nbsp  
+  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Django-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Vue-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-green"/>&nbsp
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
