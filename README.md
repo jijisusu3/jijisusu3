@@ -10,6 +10,6 @@
   <br>
   <img src="https://img.shields.io/badge/-Django-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Vue-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-React-brightviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-blueviolet"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-green"/>&nbsp
 
