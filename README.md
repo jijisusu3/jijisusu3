@@ -3,13 +3,16 @@
 <h3 align="center">📚 Technology Stack 🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-JavaScript-blueviolet"/>&nbsp  
-  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-blueviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-TypeScript-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-blue"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-React-blueviolet"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Vue-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-React-blueviolet"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-NodeJs-green"/>&nbsp
 
